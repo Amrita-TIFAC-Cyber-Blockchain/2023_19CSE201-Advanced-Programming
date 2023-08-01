@@ -58,9 +58,9 @@
 | End-Semester Exam | Dec |
 
 ### :green_book: Text and Reference Books
- - **Text:** Stroustrup B. Programming: principles and practice using C++. Second edition, Addison Wesley; 2014
- - **Text:** Charles R. Severance. Python for Everybody: Exploring Data Using Python 3, Charles Severance; 2016.
- - **Reference:** Guttag J. Introduction to Computation and Programming Using Python: With Application to Understanding Data. Second Edition.MIT Press; 2016.
+ - **Text:** Stroustrup B. [Programming: Principles and Practice using C++.](https://dl.icdst.org/pdfs/files3/fef0590f02fa06bb42cba558fbc9e51c.pdf) Second edition, Addison Wesley; 2014
+ - **Text:** Charles R. Severance. [Python for Everybody: Exploring Data Using Python 3](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf), Charles Severance; 2016.
+ - **Reference:** Guttag J. [Introduction to Computation and Programming Using Python: With Application to Understanding Data.](http://www.mim.ac.mw/books/Introduction%20to%20Computation%20and%20Programming%20Using%20Python,%20Revised%20-%20Guttag,%20John%20V..pdf) Second Edition.MIT Press; 2016.
  - **Reference:** Gaddis T. Starting out with Python. Third Edition, Pearson; 2014.
- - **Reference:** Lambert KA. Fundamentals of Python: first programs. Second Edition, Cengage Learning; 2018.
- - **Reference:** Downey AB. Think Python: How to Think Like a Computer Scientist. O’Reilly Media; 2012.
+ - **Reference:** Lambert KA. [Fundamentals of Python: first programs.](http://repository.itb-ad.ac.id/146/1/403.%20Fundamentals%20of%20Python%20First%20Programs%2C%20Second%20Edition.pdf) Second Edition, Cengage Learning; 2018.
+ - **Reference:** Downey AB. [Think Python: How to Think Like a Computer Scientist.](http://facweb.cs.depaul.edu/sjost/it211/documents/think-python-2nd.pdf) O’Reilly Media; 2012.
