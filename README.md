@@ -42,20 +42,25 @@
 
 | Components | Marks |
 |:----------|:-----:|
-| **[Internal][CA]** Quiz/Assignments | 30 |
-| **[Internal]** Midterm | 30 |
-| **[External]** End-Semester Exam | 40 |
+| **[Internal][CA-Theory]** Quiz - 1 | 5 |
+| **[Internal][CA-Lab]** Lab Evaluation - 1 | 15 |
+| **[Internal][CA-Theory]** Quiz - 2 | 5 |
+| **[Internal][CA-Lab]** Lab Evaluation - 2 | 15 |
+| **[Internal][CA-Lab]** Lab Evaluation - 3 | 10 |
+| **[Internal]** Midterm | 20 |
+| **[External]** End-Semester Exam | 30 |
 
 ### Dates and Deadlines
 
 | Course Start | 09 - Aug - 2023 |
 |--------------|-----------------|
-| Quiz 1 | TBD |
-| Quiz 2 | TBD |
-| Mid-Term Examination | Oct |
-| Quiz 3 | TBD |
-| Quiz 4 | TBD |
-| End-Semester Exam | Dec |
+| Quiz 1 | 27 - Sept - 2023 |
+| Lab Evaluation - 1 | 10 - Oct - 2023 |
+| Mid-Term Examination | 18 - Oct - 2023 |
+| Quiz 2 | 01 - Dec - 2023 |
+| Lab Evaluation - 2 | 01 - Dec - 2023 |
+| Lab Evaluation - 3 | 12 - Dec - 2023 |
+| End-Semester Exam | 08 - Jan - 2024 |
 
 ### :green_book: Text and Reference Books
  - **Text:** Stroustrup B. [Programming: Principles and Practice using C++.](https://dl.icdst.org/pdfs/files3/fef0590f02fa06bb42cba558fbc9e51c.pdf) Second edition, Addison Wesley; 2014
