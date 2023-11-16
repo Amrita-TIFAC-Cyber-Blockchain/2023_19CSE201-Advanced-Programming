@@ -16,5 +16,6 @@
 - [Student Enrollment System](https://hpoj.cb.amrita.edu:8000/problem/19cse201pyp03)
 
 ## Lab Evaluation
-- [C++: Banking System](https://hpoj.cb.amrita.edu:8000/problem/19cse201ramp1)
-- 
+- [1: C++ - Banking System](https://hpoj.cb.amrita.edu:8000/problem/19cse201ramp1)
+- [2: Python]()
+- [3: TBD]()
