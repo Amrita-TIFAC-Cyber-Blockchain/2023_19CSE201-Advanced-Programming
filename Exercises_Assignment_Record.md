@@ -11,11 +11,21 @@
 - [Namespace for Library Management System](https://hpoj.cb.amrita.edu:8000/problem/19cse201rampc2)
 
 ### Python
+- [Phone Bill](https://hpoj.cb.amrita.edu:8000/problem/phone1)
+- [Movie Ticket Booking](https://hpoj.cb.amrita.edu:8000/problem/19cse201python21e)
 - [Simple Task Manager](https://hpoj.cb.amrita.edu:8000/problem/19cse201rampy01)
 - [Inventory System](https://hpoj.cb.amrita.edu:8000/problem/19cse201pyp02)
 - [Student Enrollment System](https://hpoj.cb.amrita.edu:8000/problem/19cse201pyp03)
+- [Grade Calculation](https://hpoj.cb.amrita.edu:8000/problem/grade123)
+- [Stack]()
+- [Queue]()
+- [Singly LinkedList]()
+- [Doubly LinkedList]()
+- [Circular LinkedList]()
 
 ## Lab Evaluation
 - [1: C++ - Banking System](https://hpoj.cb.amrita.edu:8000/problem/19cse201ramp1)
-- [2: Python]()
+- 2: Python
+  - [a: Operator Overloading - Geometry](https://hpoj.cb.amrita.edu:8000/problem/19cse201cysl21)
+  - [b: Library Catalog](https://hpoj.cb.amrita.edu:8000/problem/19cse201cysl22)
 - [3: TBD]()
