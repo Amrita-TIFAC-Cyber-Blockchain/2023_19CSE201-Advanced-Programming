@@ -57,10 +57,11 @@
 | Quiz 1 | 27 - Sept - 2023 |
 | Lab Evaluation - 1 | 10 - Oct - 2023 |
 | Mid-Term Examination | 18 - Oct - 2023 |
-| Quiz 2 | 01 - Dec - 2023 |
-| Lab Evaluation - 2 | 01 - Dec - 2023 |
-| Lab Evaluation - 3 | 12 - Dec - 2023 |
+| Quiz 2 | 08 - Dec - 2023 |
+| Lab Evaluation - 2 | 12 - Dec - 2023 |
+| Lab Evaluation - 3 | 20 - Dec - 2023 |
 | End-Semester Exam | 08 - Jan - 2024 |
+| Publication of Results | 09 - Feb - 2024 |
 
 ### :green_book: Text and Reference Books
  - **Text:** Stroustrup B. [Programming: Principles and Practice using C++.](https://dl.icdst.org/pdfs/files3/fef0590f02fa06bb42cba558fbc9e51c.pdf) Second edition, Addison Wesley; 2014
