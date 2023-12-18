@@ -94,4 +94,42 @@ int main() {
 ```
 
 ### Run-Time Polymorphism
+```
+#include <iostream>
 
+// Base class
+class Shape {
+public:
+    // Virtual function
+    virtual void draw() const {
+        std::cout << "Drawing a shape." << std::endl;
+    }
+};
+
+// Derived class
+class Circle : public Shape {
+public:
+    // Override the virtual function
+    void draw() const override {
+        std::cout << "Drawing a circle." << std::endl;
+    }
+};
+
+int main() {
+    // Create objects of base and derived classes
+    Shape shape;
+    Circle circle;
+    Square square;
+
+    // Using pointers to the base class
+    Shape* shapePtr1 = &shape;
+    Shape* shapePtr2 = &circle;
+
+    // Call the virtual function
+    shapePtr1->draw();  // Output: Drawing a shape.
+    shapePtr2->draw();  // Output: Drawing a circle.
+
+    return 0;
+}
+
+```
