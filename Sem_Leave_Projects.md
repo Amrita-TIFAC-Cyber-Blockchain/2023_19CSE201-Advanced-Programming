@@ -4,6 +4,8 @@
 
 ## Project Topics and Team
 
+Project scheduled for **Semester Holidays**. The tentative review will be from **Jan 31st to Feb 10th, 2024.**
+
 | Team Number | Team Members | Survey Title | 
 |:-----------:|:------------:|:------------:|
 |    [CP-01](Project_Submission/CP-01)    | Adarsh R K <br/> Namitha Sudhishkumar Nair <br/> Anagh Shaji Plamoottukada | [Bank Management System](Project_Submission/CP-01) | 
