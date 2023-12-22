@@ -17,15 +17,17 @@
 - [Inventory System](https://hpoj.cb.amrita.edu:8000/problem/19cse201pyp02)
 - [Student Enrollment System](https://hpoj.cb.amrita.edu:8000/problem/19cse201pyp03)
 - [Grade Calculation](https://hpoj.cb.amrita.edu:8000/problem/grade123)
-- [Stack]()
-- [Queue]()
-- [Singly LinkedList]()
-- [Doubly LinkedList]()
-- [Circular LinkedList]()
+- **Stack**
+- **Queue**
+- **Singly LinkedList**
+- **Doubly LinkedList**
+- **Circular LinkedList**
 
 ## Lab Evaluation
 - [1: C++ - Banking System](https://hpoj.cb.amrita.edu:8000/problem/19cse201ramp1)
-- 2: Python
+- **2: Python**
   - [a: Operator Overloading - Geometry](https://hpoj.cb.amrita.edu:8000/problem/19cse201cysl21)
   - [b: Library Catalog](https://hpoj.cb.amrita.edu:8000/problem/19cse201cysl22)
-- [3: TBD]()
+- **3: ADT and STL**
+  - [a: Implementation of ADT - Stack, Queue and Doubly Linked List]
+  - [b: Task Manager using STL]  
