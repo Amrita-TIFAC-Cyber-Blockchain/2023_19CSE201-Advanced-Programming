@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-AdP-blue)
 ![](https://img.shields.io/badge/-HPOJ-brown)
 
-## Object Oriented Programming
+## Object Oriented Programming - Comparison with C Program
 
 ### C Progarm
 
@@ -83,4 +83,34 @@ int main() {
 }
 ```
 
+### Python Program
+
+car.py
+```
+class Car:
+    def __init__(self):
+        self.make = ""
+        self.model = ""
+        self.year = 0
+        self.price = 0.0
+
+    # Method to display car details
+    def displayDetails(self):
+        print("Car Details:")
+        print("Make:", self.make)
+        print("Model:", self.model)
+        print("Year:", self.year)
+        print("Price: ${:.2f}".format(self.price))
+
+# Creating an object of the Car class
+myCar = Car()
+
+# Setting attributes for the car object
+myCar.make = "Jaguar"
+myCar.model = "XF"
+myCar.year = 2022
+myCar.price = 7160000.00
+
+# Calling the method to display car details
+myCar.displayDetails()
 ```
