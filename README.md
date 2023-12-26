@@ -1,6 +1,6 @@
 # 19CSE201 - Advanced Programming
 ![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-AP-blue)
-![](https://img.shields.io/badge/-HPOJ-brown) ![](https://img.shields.io/badge/Additional_Coverage-Code_Review-purple)  <br/>
+![](https://img.shields.io/badge/-HPOJ-brown) <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 
 #### :teacher: Course Instructor:  Ramaguru R, Assistant Professor, TIFAC-CORE in Cyber Security.
@@ -17,26 +17,35 @@
 
 ### :watch: Course Plan and Status
 
-| Unit # | Lecture No. | Topic | No. of Hours |
+| Unit # | Lecture No. | Topic | Dates |
 |:------:|:-----------:|-------|:------------:|
-|    1   |     1       |  Overview of Object-Oriented Paradigm |
-|    1   |     2       |  Programming in C++: Objects as a group of variables <br/> Classes as a named group of methods and data, <br/> morphing from structures to classes  |
-|    1   |     1       | Input and Output, Access Specifiers |
-|    1   |     2       |  Member functions: Accessor, Mutator, and Auxiliary, <br/> Constructors and Destructors, <br/> New and Delete Operators | 
+|    1   |     #       | Overview of Object-Oriented Paradigm |  ![](https://img.shields.io/badge/-2nd_Aug-gold) |
+|    1   |     #       | Introduction to the Course |  ![](https://img.shields.io/badge/-14th_Aug-gold) |
+|    1   |     1       | Programming in C++: Objects as a group of variables <br/> Classes as a named group of methods and data, <br/> morphing from structures to classes  | ![](https://img.shields.io/badge/-21st_Aug-gold) |
+|    1   |     1       | Input and Output, Access Specifiers | ![](https://img.shields.io/badge/-21st_Aug-gold) |
+|    1   |     1       | ![](https://img.shields.io/badge/-Lab-brown) Practice: Classes and Objects | ![](https://img.shields.io/badge/-22nd_Aug-brown) | 
+|    1   |     2       | Member functions: Constructors and Destructors, <br/> New and Delete Operators | ![](https://img.shields.io/badge/-23rd_Aug-gold) |
+|    1   |     2       | Namespaces in C++ | ![](https://img.shields.io/badge/-24th_Aug-gold) |
+|    1   |     2       | Introduction to Polymorphism and Inheritance | ![](https://img.shields.io/badge/-25th_Aug-gold) |
+|    1   |     2       | ![](https://img.shields.io/badge/-Activity-orange) Classes and Objects | ![](https://img.shields.io/badge/-30th_Aug-orange) |
+|    1   |     1       | ![](https://img.shields.io/badge/-Lab-brown) Practice: Activity Problem and Namespace | ![](https://img.shields.io/badge/-5th_Sept-brown) | 
+|    1   |     2       | ![](https://img.shields.io/badge/-Activity-orange) Inheritance | ![](https://img.shields.io/badge/-19th_Sept-orange) |
+|    1   |     1       | ![](https://img.shields.io/badge/-Lab-brown) Practice: Inheritance and Exception Handling | ![](https://img.shields.io/badge/-26th_Sept-brown) | 
+|    #   |     #       | **Quiz - 1** | ![](https://img.shields.io/badge/-27th_Sept-green) |
 |    1   |     3       | Overloading, Inheritance: Handling Access and Specialization through Overriding |
-|    1   |     3       | Polymorphism: Virtual Functions, Abstract Class, and Virtual Function Tables |
-|    2   |     2       | Revisiting Pointers: Pointers to Pointers, Pointers and String Array, Void Pointers |
-|    2   |     1       | Function Pointers | 
-|    2   |     1       | Standard Template Library |
-|    2   |     3       | Implementation of Stack, Queue, Hash Table, and Linked Lists with STL. 
-|    2   |     2       | Basic Python: Multi-paradigm language, Data Types and Variables, <br/> Indentation, Input and Output statements | 
-|    2   |     2       | Lists and Strings, Deep and Shallow Copy, Tuples and Dictionaries, <br/> Set and Frozen Sets |
+|    1   |     3       | Polymorphism: Function Overloading | ![](https://img.shields.io/badge/-25th_Aug-gold) |
+|    2   |     2       | Basic Python: Multi-paradigm language, Data Types and Variables, <br/> Indentation, Input and Output statements | ![](https://img.shields.io/badge/-27th_Oct-gold) |
+|    2   |     2       | Lists and Strings, Deep and Shallow Copy, <br/> Tuples, Set, and Dictionaries |
 |    2   |     2       | Control Statements and Loops, Iterators, and Iterable |
 |    2   |     2       | Functions, Recursion and Parameter Passing, Namespaces and <br/> Variable Scope, Exception Handling |
 |    3   |     2       | Object-Oriented Concepts in Python: Class, Instance Attributes, Getters, Setters |
-|    3   |     2       | Inheritance, Multiple Inheritance, Magic Methods, and Operator Overloading |
+|    3   |     2       | Polymorphism : Function Overloading |  ![](https://img.shields.io/badge/-28th_Nov-gold) |
+|    3   |     2       | Polymorphism :  Magic Methods, and Operator Overloading |  ![](https://img.shields.io/badge/-29th_Nov-gold) |
 |    3   |     2       | Class Creation, Slots, Meta Classes, and Abstract Classes |
-|    3   |     4       | Implementation of Stack, Queue, Hash Table, and Linked Lists |
+|    3   |     4       | Implementation of Stack, Queue, and Linked Lists |
+|    2   |     1       | Standard Template Library |  ![](https://img.shields.io/badge/-15th_Dec-gold) |
+|    2   |     3       | Implementation of Stack, and Queue |  ![](https://img.shields.io/badge/-15th_Dec-gold) |
+|    2   |     3       | Implementation of Stack, Queue, and Linked Lists with STL |  ![](https://img.shields.io/badge/-20th_Dec-gold) |
 
 ### Evaluation Criteria
 
@@ -48,7 +57,9 @@
 | **[Internal][CA-Lab]** Lab Evaluation - 2 | 15 |
 | **[Internal][CA-Lab]** Lab Evaluation - 3 | 10 |
 | **[Internal]** Midterm | 20 |
-| **[External]** End-Semester Exam | 30 |
+| **[External]** End-Semester Exam - Viva | 15 |
+| **[External]** End-Semester Exam - Theory | 45 |
+| **[External]** End-Semester Exam - Lab | 40 |
 
 ### Dates and Deadlines
 
