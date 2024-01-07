@@ -2,6 +2,7 @@
 ![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-AP-blue)
 ![](https://img.shields.io/badge/-HPOJ-brown) <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/>
+![](https://img.shields.io/badge/Regular_Students-72-gold) ![](https://img.shields.io/badge/ReReg_Students-10-gold)  
 
 #### :teacher: Course Instructor:  Ramaguru R, Assistant Professor, TIFAC-CORE in Cyber Security.
 
@@ -72,7 +73,9 @@
 | Lab Evaluation - 2 | 12 - Dec - 2023 |
 | Lab Evaluation - 3 | 20 - Dec - 2023 |
 | End-Semester Exam | 08 - Jan - 2024 |
+| Project Evaluation     | 22 - Jan - 2024 to <br/> 29 - Jan - 2024 | 
 | Publication of Results | 09 - Feb - 2024 |
+
 
 ### :green_book: Text and Reference Books
  - **Text:** Stroustrup B. [Programming: Principles and Practice using C++.](https://dl.icdst.org/pdfs/files3/fef0590f02fa06bb42cba558fbc9e51c.pdf) Second edition, Addison Wesley; 2014
