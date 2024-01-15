@@ -1,6 +1,6 @@
 # 19CSE201 - Advanced Programming 
 ![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-AdP-blue)
-![](https://img.shields.io/badge/-HPOJ-brown) ![](https://img.shields.io/badge/Additional_Coverage-Code_Review-purple)  <br/>
+![](https://img.shields.io/badge/-HPOJ-brown) <br/>
 
 ## Practice Exercises
 ### C++
@@ -30,4 +30,8 @@
   - [b: Library Catalog](https://hpoj.cb.amrita.edu:8000/problem/19cse201cysl22)
 - **3: ADT and STL**
   - [a: Implementation of ADT - Stack, Queue and Doubly Linked List]
-  - [b: Task Manager using STL]  
+  - [b: Task Manager using STL]
+ 
+## Submission 
+- [Latex Template](Template/) available here.
+- Date of Submission: ![](https://img.shields.io/badge/-21st_Jan_6:00_PM-darkred) 
