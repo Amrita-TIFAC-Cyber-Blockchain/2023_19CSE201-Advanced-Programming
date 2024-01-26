@@ -1,0 +1,15 @@
+* Ada: You were amazing! We've successfully reached *
+*      the 1st floor..                              *
+*      Now we have to go to the grand staircase to  *
+*      get to the 2nd floor..                       *
+*      But which way? We can either go through the  *
+*      east block, or we can go through my cousin   *
+*      brother Andrew's chambers, but we must be    *
+*      careful not to be caught by him, as he will  *
+*      probably ask us for a favor..                *
+
+Enter 1 to go through east foyer, and 2 to go through 
+cousin's chambers. 
+
+ 
+ 

@@ -1,0 +1,13 @@
+* Ada: We are so close! Now we just have to go      *
+*      another level, and we are there..            *
+*      More family members stay in this floor.      *
+*      Should we go through the corridor next to my *
+*      late father's room, or should we go through  *
+*      the corrider next to my grandmother's room?  *
+
+Enter 1 to go through corridor next to father's 
+room, and 2 to go through corridor next to 
+grandmother's room.
+
+ 
+ 

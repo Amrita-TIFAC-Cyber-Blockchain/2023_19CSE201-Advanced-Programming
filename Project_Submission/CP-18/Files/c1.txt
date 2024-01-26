@@ -1,0 +1,13 @@
+* Ada: Come on then, let's not waste any time..     *
+*      First we must get to the 1st floor.There     *
+*      are 2 ways to get there, either through      *
+*      the staircase on the patio, or through the   *
+*      staircase in the throneroom.Which way do     *
+*      you want to go?                              *
+
+
+Enter 1 to go through staircase on patio and
+2 to go through the staircase in the throneroom.
+
+ 
+ 
