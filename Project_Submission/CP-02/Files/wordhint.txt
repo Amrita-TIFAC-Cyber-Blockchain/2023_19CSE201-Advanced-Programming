@@ -1,0 +1,60 @@
+hippopotamus,river horse
+luminous,Bright
+pensive,Thoughtful
+nostalgic,Reminiscent
+alligator,Reptile
+protagonist,Main character
+demonetization,Currency
+conqueror,Victor
+internet,Network
+hallucination,Illusion
+extravagant,Lavish
+delicious,Tasty
+humorous,Funny
+courgeous,Brave
+euphoria,Happiness
+inevitable,Unavoidable
+intelligent,Smart
+exhausted,Tired
+paradox,Contradiction
+Galaxy, Universe
+Juxtapose, Contrast
+Zephyr, Breeze
+Jubilant,Joyful
+Xenophobia,Fear
+Resilient,Strong
+Ethereal,Otherworldly
+Incandescent,Glowing
+Quixotic, Idealistic
+Cryptic, Enigmatic
+Mythology, Legends
+Symphony, Orchestra
+Eavesdrop, listen secretly
+Silhouette, outline
+Chronicle, history
+Nostalgia, longing
+Perplexed, confused
+Flourish, thrive
+Tranquility, peacefulness
+Symphony, orchestra
+Equinox, Day-Night
+Obfuscate,Make unclear or difficult to understand.
+Mellifluous,Sweet-sounding or smoothly flowing.
+Quixotic,unrealistic and impractical.
+Perspicacious,Having a keen perception or understanding.
+Ephemeral,Lasting for a very short time.
+Ineffable,Too great or extreme to be expressed or described in words.
+Disparate,Distinct or different in kind.
+Serendipity,The occurrence and development of events by chance in a happy or beneficial way.
+Recalcitrant,Resisting authority or control; uncooperative.
+Pernicious,Having a harmful effect especially in a gradual or subtle way.
+Sesquipedalian, Characterized by long words
+Vicissitude,A change or variation occurring in the course of something.
+Discombobulate,To confuse or disconcert upset the normal operation or function of.
+Pulchritudinous,Characterized by physical beauty.
+Panacea,A remedy for all diseases, evils, or difficulties
+Quotidian,Occurring daily ordinary or everyday.
+Proclivity,A natural inclination or tendency towards something.
+Ubiquitous, found everywhere.
+Mellifluous,Pleasantly smooth and musical to hear.
+Disparate,Fundamentally distinct or dissimilar.
